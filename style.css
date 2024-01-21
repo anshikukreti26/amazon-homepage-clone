@@ -89,6 +89,10 @@
     color: #0f1111;
 }
 
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
 /**BOX 4**/
 
 span{
@@ -96,6 +100,16 @@ span{
 }
 
 .nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/**BOX 6**/
+.nav-cart i{
+    font-size: 30px;
+}
+
+.nav-cart{
     font-size: 0.85rem;
     font-weight: 700;
 }
